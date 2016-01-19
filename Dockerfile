@@ -1,5 +1,6 @@
-FROM ubuntu:14.10
-MAINTAINER Auke Willem Oosterhoff <auke@orangetux.nl>
+FROM ubuntu:15.10
+# ORIGINAL MAINTAINER Auke Willem Oosterhoff <auke@orangetux.nl>
+MAINTAINER Phillip Jaenke <docker@rootwyrm.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
 
